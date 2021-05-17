@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/gabebot/static/css/main.afd7172b.chunk.css",
+    "main.js": "/gabebot/static/js/main.65aa9c5a.chunk.js",
+    "main.js.map": "/gabebot/static/js/main.65aa9c5a.chunk.js.map",
+    "runtime-main.js": "/gabebot/static/js/runtime-main.606d8f20.js",
+    "runtime-main.js.map": "/gabebot/static/js/runtime-main.606d8f20.js.map",
+    "static/js/2.5afb5e34.chunk.js": "/gabebot/static/js/2.5afb5e34.chunk.js",
+    "static/js/2.5afb5e34.chunk.js.map": "/gabebot/static/js/2.5afb5e34.chunk.js.map",
+    "static/js/3.ea8b0d18.chunk.js": "/gabebot/static/js/3.ea8b0d18.chunk.js",
+    "static/js/3.ea8b0d18.chunk.js.map": "/gabebot/static/js/3.ea8b0d18.chunk.js.map",
+    "index.html": "/gabebot/index.html",
+    "static/css/main.afd7172b.chunk.css.map": "/gabebot/static/css/main.afd7172b.chunk.css.map",
+    "static/js/2.5afb5e34.chunk.js.LICENSE.txt": "/gabebot/static/js/2.5afb5e34.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.606d8f20.js",
+    "static/js/2.5afb5e34.chunk.js",
+    "static/css/main.afd7172b.chunk.css",
+    "static/js/main.65aa9c5a.chunk.js"
+  ]
+}
