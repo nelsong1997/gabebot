@@ -13,7 +13,9 @@ class App extends React.Component {
     render() {
         return (
             <div id="main">
-                <h1>Add gabebot to your Discord server!</h1>
+                <div>
+                    <h1 style={{textAlign: "center"}}>Add gabebot to your Discord server!</h1>
+                </div>
                 <img id="icon" src={icon} height="120px" alt="icon"/>
                     <a
                         href='https://discord.com/api/oauth2/authorize?client_id=843650184206483496&permissions=3072&redirect_uri=https%3A%2F%2Fnelsong1997.github.io%2Fgabebot%2F&scope=bot'
